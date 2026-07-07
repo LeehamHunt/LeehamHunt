@@ -9,7 +9,7 @@ Mechanical engineering graduate focused on designing multidisciplinary products 
 ## Featured Projects
 
 ### **[UAV Camera Gimbal Controller](https://github.com/LeehamHunt/UAV-Gimbal-Controller)** - Embedded Control System for stabilized UAV imaging payload
-#### Technologies:
+#### Technologies
 C/C++, PlatformIO, Arduino/SAMD21, MAVLink, CAN Bus, SimpleFOC
 #### Highlights
 - Developed a field-oriented control (FOC) motor control system for a single-axis gimbal.
