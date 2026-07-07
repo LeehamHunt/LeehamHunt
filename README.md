@@ -55,7 +55,7 @@ Solidworks, CST Studio Suite, KiCAD, Abaqus, Adams
 3D Printing, CNC, Soldering, Fiberglass Composites
 
 # Links
-[Download Resume (PDF)](assets/Liam_Huntsucker_Resume.pdf)
+[Download Resume (PDF)](https://github.com/LeehamHunt/LeehamHunt/blob/main/Resume%20Summer%20'26%20-%20Liam%20Huntsucker.pdf)
 
 [LinkedIn](https://www.linkedin.com/in/liam-huntsucker-b91708180/)  
 
