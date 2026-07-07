@@ -48,7 +48,7 @@ Mechanical engineering graduate focused on designing multidisciplinary products 
 #### Languages
 C/C++, Python, MATLAB
 #### Embedded
-Arduino, Raspberry Pi, SAMD21, CAN Bus, MAvlINK, I^2C, UART
+Arduino, Raspberry Pi, SAMD21, CAN Bus, MAVlink, I^2C, UART
 #### Engineering Software
 Solidworks, CST Studio Suite, KiCAD, Abaqus, Adams
 #### Fabrication
