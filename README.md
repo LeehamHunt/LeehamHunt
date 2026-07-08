@@ -32,7 +32,7 @@ Python, YOLO, OpenCV, Raspberry Pi, MAVLink
 - Developed object detection and tracking pipeline.
 - Integrated computer vision output with UAV control architecture.
 
-# Techincal Skills
+# Technical Skills
 #### Languages
 C/C++, Python, MATLAB
 #### Embedded
