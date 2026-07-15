@@ -30,7 +30,7 @@ Mechanical engineering graduate focused on designing multidisciplinary products 
 ### **[24GHz Antenna Array](https://github.com/leehamhunt/24GHz-Patch-Antenna-Array)** - High-gain microstrip antenna design and simulation
 <table>
   <tr>
-    <td><img src="https://github.com/LeehamHunt/24GHz-Patch-Antenna-Array/blob/main/images/AnechoicCalibration.jpg" alt="AntennaSim" width="600">
+    <td><img src="https://github.com/LeehamHunt/24GHz-Patch-Antenna-Array/blob/main/images/AnechoicCalibration.jpg" alt="AnechoicCalibration" width="600">
     </td>
     <td valign="top"><b>Technologies</b><br>
     CST Studio Suite, MATLAB
@@ -43,6 +43,26 @@ Mechanical engineering graduate focused on designing multidisciplinary products 
     </ul></td>
   </tr>
 </table>
+<br></br>
+
+### **[B-2 Cargo Pod](https://github.com/LeehamHunt/B-2_CargoPod)** - Senior capstone project developing a conceptual auxiliary cargo pod for the B-2 Spirit in collaboration with StrikeWerx and the U.S. Air Force.
+<table>
+  <tr>
+    <td><img src="https://github.com/LeehamHunt/B-2_CargoPod/blob/main/images/CargoFullAssembly.png" alt="CargoPod" width="fill">
+    </td>
+    <td valign="top"><b>Technologies</b><br>
+    SolidWorks, CAD, Product Design, Mechanical Design, Design for Manufacturing (DFM)
+    <br></br>
+    <br><b>Highlights</b></br>
+    <ul>
+    <li>Collaborated with a multidisciplinary engineering team to develop a conceptual auxiliary cargo pod for the B-2 Spirit as part of a senior capstone project.</li>
+    <li>Designed and modeled mechanical components and assemblies in SolidWorks, balancing aerodynamic packaging, structural integration, and manufacturability.</li>
+    <li>Participated in the iterative design process through concept generation, CAD refinement, design reviews, and engineering trade studies.</li>
+    <li>Produced engineering documentation and design deliverables while working with project stakeholders from StrikeWerx and the U.S. Air Force.</li>
+    </ul></td>
+  </tr>
+</table>
+
 <br></br>
 
 ### **[Vertical Hydroponic Growing System](https://github.com/leehamhunt/Hydroponic-System)** - Iterative product design, CAD modeling, and rapid prototyping 
