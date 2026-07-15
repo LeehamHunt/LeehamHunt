@@ -25,7 +25,7 @@ CST Studio Suite, MATLAB
 - Analyzed impedance matching, radiation patterns, gain, and beamwidth.
 - Performed parametric optimization of antenna geometry and substrate properties.
 
-### **[Modular Vertical Hydroponic Growing System](https://github.com/leehamhunt/Hydroponic-System)**
+### **[Vertical Hydroponic Growing System](https://github.com/leehamhunt/Hydroponic-System)** - Iterative product design 
 Designed and prototyped a modular indoor hydroponic system through iterative mechanical design, CAD modeling, and rapid prototyping.
 
 #### Technologies
