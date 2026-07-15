@@ -25,6 +25,17 @@ CST Studio Suite, MATLAB
 - Analyzed impedance matching, radiation patterns, gain, and beamwidth.
 - Performed parametric optimization of antenna geometry and substrate properties.
 
+### **[Modular Vertical Hydroponic Growing System](https://github.com/leehamhunt/Hydroponic-System)**
+Designed and prototyped a modular indoor hydroponic system through iterative mechanical design, CAD modeling, and rapid prototyping.
+
+#### Technologies
+SolidWorks, Blender, 3D Printing, Product Design
+
+#### Highlights
+- Designed a modular hydroponic system with emphasis on manufacturability, serviceability, and user-friendly assembly.
+- Developed mechanical components and assemblies through iterative CAD modeling and prototype evaluation.
+- Applied engineering design principles to optimize structural performance, packaging, and water distribution.
+
 ### **[AI Vision Tracking System](https://github.com/leehamhunt/YOLO-UAV-Tracking)** - Real-time object detection and UAV tracking
 #### Technologies
 Python, YOLO, OpenCV, Raspberry Pi, MAVLink
