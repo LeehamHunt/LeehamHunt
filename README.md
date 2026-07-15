@@ -30,7 +30,7 @@ Mechanical engineering graduate focused on designing multidisciplinary products 
 ### **[24GHz Antenna Array](https://github.com/leehamhunt/24GHz-Patch-Antenna-Array)** - High-gain microstrip antenna design and simulation
 <table>
   <tr>
-    <td><img src="https://github.com/LeehamHunt/24GHz-Patch-Antenna-Array/blob/main/images/4x1PatchArraySim.png" alt="AntennaSim" width="fill">
+    <td><img src="https://github.com/LeehamHunt/24GHz-Patch-Antenna-Array/blob/main/images/AnechoicCalibration.jpg" alt="AntennaSim" width="600">
     </td>
     <td valign="top"><b>Technologies</b><br>
     CST Studio Suite, MATLAB
