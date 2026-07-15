@@ -26,10 +26,11 @@ Mechanical engineering graduate focused on designing multidisciplinary products 
 </table>
 
 <br></br>
+
 ### **[24GHz Antenna Array](https://github.com/leehamhunt/24GHz-Patch-Antenna-Array)** - High-gain microstrip antenna design and simulation
 <table>
   <tr>
-    <td><img src="https://github.com/LeehamHunt/24GHz-Patch-Antenna-Array/blob/main/images/4x1PatchArraySim.png" alt="Field" width="fill">
+    <td><img src="https://github.com/LeehamHunt/24GHz-Patch-Antenna-Array/blob/main/images/4x1PatchArraySim.png" alt="AntennaSim" width="fill">
     </td>
     <td valign="top"><b>Technologies</b><br>
     CST Studio Suite, MATLAB
@@ -42,24 +43,41 @@ Mechanical engineering graduate focused on designing multidisciplinary products 
     </ul></td>
   </tr>
 </table>
+<br></br>
 
-### **[Vertical Hydroponic Growing System](https://github.com/leehamhunt/Hydroponic-System)** - Iterative product design 
-Designed and prototyped a modular indoor hydroponic system through iterative mechanical design, CAD modeling, and rapid prototyping.
-
-#### Technologies
-SolidWorks, Blender, 3D Printing, Product Design
-
-#### Highlights
-- Designed a modular hydroponic system with emphasis on manufacturability, serviceability, and user-friendly assembly.
-- Developed mechanical components and assemblies through iterative CAD modeling and prototype evaluation.
-- Applied engineering design principles to optimize structural performance, packaging, and water distribution.
+### **[Vertical Hydroponic Growing System](https://github.com/leehamhunt/Hydroponic-System)** - Iterative product design, CAD modeling, and rapid prototyping 
+<table>
+  <tr>
+    <td><img src="https://github.com/LeehamHunt/Hydroponic-system/blob/main/images/hydroRender.PNG" alt="Hydroponics" width="fill">
+    </td>
+    <td valign="top"><b>Technologies</b><br>
+    SolidWorks, Blender, 3D Printing, Product Design
+    <br></br>
+    <br><b>Highlights</b></br>
+    <ul>
+    <li>Designed a modular hydroponic system with emphasis on manufacturability, serviceability, and user-friendly assembly.</li>
+    <li>Developed mechanical components and assemblies through iterative CAD modeling and prototype evaluation.</li>
+    <li>Applied engineering design principles to optimize structural performance, packaging, and water distribution.</li>
+    </ul></td>
+  </tr>
+</table>
+<br></br>
 
 ### **[AI Vision Tracking System](https://github.com/leehamhunt/YOLO-UAV-Tracking)** - Real-time object detection and UAV tracking
-#### Technologies
-Python, YOLO, OpenCV, Raspberry Pi, MAVLink
-#### Highlights
-- Developed object detection and tracking pipeline.
-- Integrated computer vision output with UAV control architecture.
+<table>
+  <tr>
+    <td><img src="https://github.com/LeehamHunt/YOLO-UAV-Tracking/blob/main/images/Test1.png" alt="YOLO-VIsion" width="fill">
+    </td>
+    <td valign="top"><b>Technologies</b><br>
+    Python, YOLO, OpenCV, Raspberry Pi, MAVLink
+    <br></br>
+    <br><b>Highlights</b></br>
+    <ul>
+    <li>Developed object detection and tracking pipeline.</li>
+    <li>Integrated computer vision output with UAV control architecture.</li>
+    </ul></td>
+  </tr>
+</table>
 
 # Technical Skills
 #### Languages
