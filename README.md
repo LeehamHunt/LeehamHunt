@@ -48,7 +48,7 @@ Mechanical engineering graduate focused on designing multidisciplinary products 
 ### **[B-2 Cargo Pod](https://github.com/LeehamHunt/B-2_CargoPod)** - Senior capstone project developing a cargo pod for the B-2 Spirit in collaboration with StrikeWerx and the U.S. Air Force.
 <table>
   <tr>
-    <td><img src="https://github.com/LeehamHunt/B-2_CargoPod/blob/main/images/CargoFullAssembly.png" alt="CargoPod" width="fill">
+    <td><img src="https://github.com/LeehamHunt/B-2_CargoPod/blob/main/images/RotatingCargoPod.gif" alt="CargoPod" width="600">
     </td>
     <td valign="top"><b>Technologies</b><br>
     SolidWorks, CAD, Product Design, Mechanical Design, Design for Manufacturing (DFM)
