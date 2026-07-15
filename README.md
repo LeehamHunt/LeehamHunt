@@ -9,22 +9,39 @@ Mechanical engineering graduate focused on designing multidisciplinary products 
 ## Featured Projects
 
 ### **[UAV Camera Gimbal Controller](https://github.com/LeehamHunt/UAV-Gimbal-Controller)** - Embedded Control System for stabilized UAV imaging payload
-![ ](LeehamHunt/UAV-Gimbal-Controller/images/onTheField2.jpg)
-#### Technologies
-C/C++, PlatformIO, Arduino/SAMD21, MAVLink, CAN Bus, SimpleFOC
-#### Highlights
-- Developed a field-oriented control (FOC) motor control system for a single-axis gimbal.
-- Designed and fabricated a custom electromechanical housing for integration into a Class II UAV nose cone.
-- Integrated IMU sensing, encoder feedback, and autopilot telemetry for closed-loop stabilization.
+<table>
+  <tr>
+    <td><img src="https://github.com/LeehamHunt/UAV-Gimbal-Controller/blob/main/images/onTheField2.jpg" alt="Field" width="fill">
+    </td>
+    <td valign="top"><b>Technologies</b><br>
+    C/C++, PlatformIO, Arduino/SAMD21, MAVLink, CAN Bus, SimpleFOC
+    <br></br>
+    <br><b>Highlights</b></br>
+    <ul>
+    <li>Developed a field-oriented control (FOC) motor control system for a single-axis gimbal.</li>
+    <li>Designed and fabricated a custom electromechanical housing for integration into a Class II UAV nose cone.</li>
+    <li>Integrated IMU sensing, encoder feedback, and autopilot telemetry for closed-loop stabilization.</li>
+    </ul></td>
+  </tr>
+</table>
 
+<br></br>
 ### **[24GHz Antenna Array](https://github.com/leehamhunt/24GHz-Patch-Antenna-Array)** - High-gain microstrip antenna design and simulation
-
-#### Technologies
-CST Studio Suite, MATLAB
-#### Highlights
-- Designed and optimized 24 GHz patch antenna arrays.
-- Analyzed impedance matching, radiation patterns, gain, and beamwidth.
-- Performed parametric optimization of antenna geometry and substrate properties.
+<table>
+  <tr>
+    <td><img src="https://github.com/LeehamHunt/24GHz-Patch-Antenna-Array/blob/main/images/4x1PatchArraySim.png" alt="Field" width="fill">
+    </td>
+    <td valign="top"><b>Technologies</b><br>
+    CST Studio Suite, MATLAB
+    <br></br>
+    <br><b>Highlights</b></br>
+    <ul>
+    <li>Designed and optimized 24 GHz patch antenna arrays.</li>
+    <li>Analyzed impedance matching, radiation patterns, gain, and beamwidth.</li>
+    <li>Performed parametric optimization of antenna geometry and substrate properties.</li>
+    </ul></td>
+  </tr>
+</table>
 
 ### **[Vertical Hydroponic Growing System](https://github.com/leehamhunt/Hydroponic-System)** - Iterative product design 
 Designed and prototyped a modular indoor hydroponic system through iterative mechanical design, CAD modeling, and rapid prototyping.
