@@ -45,7 +45,7 @@ Mechanical engineering graduate focused on designing multidisciplinary products 
 </table>
 <br></br>
 
-### **[B-2 Cargo Pod](https://github.com/LeehamHunt/B-2_CargoPod)** - Senior capstone project developing a conceptual auxiliary cargo pod for the B-2 Spirit in collaboration with StrikeWerx and the U.S. Air Force.
+### **[B-2 Cargo Pod](https://github.com/LeehamHunt/B-2_CargoPod)** - Senior capstone project developing a cargo pod for the B-2 Spirit in collaboration with StrikeWerx and the U.S. Air Force.
 <table>
   <tr>
     <td><img src="https://github.com/LeehamHunt/B-2_CargoPod/blob/main/images/CargoFullAssembly.png" alt="CargoPod" width="fill">
