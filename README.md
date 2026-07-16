@@ -117,8 +117,9 @@ Mechanical engineering graduate focused on designing multidisciplinary products 
     </ul></td>
   </tr>
 </table>
+<br></br>
 
-### **[X-1 Test Vehicle (AIAA Design/Build/Fly 2025)](https://github.com/leehamhunt/X-1_TestVehicle)** - Designed and developed an autonomous glider for the AIAA Design/Build/Fly competition to demonstrate controlled aerial deployment from a carrier aircraft.
+### **[X-1 Test Vehicle (AIAA Design/Build/Fly 2025)](https://github.com/leehamhunt/X-1_TestVehicle)** - Developed an autonomous glider for the AIAA DBF competition
 <table>
   <tr>
     <td><img src="https://github.com/LeehamHunt/X-1_TestVehicle/blob/main/images/CompletedGlider.jpg" alt="Glider" width="fill">
