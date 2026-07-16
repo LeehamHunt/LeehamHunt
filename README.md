@@ -48,7 +48,7 @@ Mechanical engineering graduate focused on designing multidisciplinary products 
 ### **[B-2 Cargo Pod](https://github.com/LeehamHunt/B-2_CargoPod)** - Senior capstone project developing a cargo pod for the B-2 Spirit in collaboration with StrikeWerx and the U.S. Air Force.
 <table>
   <tr>
-    <td><img src="https://github.com/LeehamHunt/B-2_CargoPod/blob/main/images/RotatingCargoPod.gif" alt="CargoPod" width="600">
+    <td><img src="https://github.com/LeehamHunt/B-2_CargoPod/blob/main/images/RotatingCargoPod.gif" alt="CargoPod" width="400">
     </td>
     <td valign="top"><b>Technologies</b><br>
     SolidWorks, CAD, Product Design, Mechanical Design, Design for Manufacturing (DFM)
@@ -81,6 +81,25 @@ Mechanical engineering graduate focused on designing multidisciplinary products 
     </ul></td>
   </tr>
 </table>
+<br></br>
+
+### **[Lüneburg Lens Generator](https://github.com/LeehamHunt/LunebergLens_Generator)** - Automated computational design tool for gradient-index (GRIN) Lüneburg lenses.
+<table>
+  <tr>
+    <td><img src="https://github.com/LeehamHunt/LunebergLens_Generator/blob/main/images/CSTSimulation.png" alt="LunebergLens" width="600">
+    </td>
+    <td valign="top"><b>Technologies</b><br>
+    Python, PyQt6, NumPy, Computational Geometry, RF Design
+    <br></br>
+    <br><b>Highlights</b></br>
+    <ul>
+    <li>Developed a desktop application to automate the generation of gradient-index Lüneburg lens geometries for electromagnetic applications.</li>
+    <li>Implemented customizable lens generation using gyroid unit cells, enabling user-defined dimensions, refractive index profiles, and export settings.</li>
+    <li>Created an interactive GUI for rapid design iteration and preparation of models for simulation and additive manufacturing.</li>
+    </ul></td>
+  </tr>
+</table>
+
 <br></br>
 
 ### **[AI Vision Tracking System](https://github.com/leehamhunt/YOLO-UAV-Tracking)** - Real-time object detection and UAV tracking
