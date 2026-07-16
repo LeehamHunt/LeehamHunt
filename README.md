@@ -118,6 +118,23 @@ Mechanical engineering graduate focused on designing multidisciplinary products 
   </tr>
 </table>
 
+### **[X-1 Test Vehicle (AIAA Design/Build/Fly 2025)](https://github.com/leehamhunt/X-1_TestVehicle)** - Designed and developed an autonomous glider for the AIAA Design/Build/Fly competition to demonstrate controlled aerial deployment from a carrier aircraft.
+<table>
+  <tr>
+    <td><img src="https://github.com/LeehamHunt/X-1_TestVehicle/blob/main/images/CompletedGlider.jpg" alt="Glider" width="fill">
+    </td>
+    <td valign="top"><b>Technologies</b><br>
+    SolidWorks, FEA, Aerodynamics, Composite Fabrication, Mechanical Design
+    <br></br>
+    <br><b>Highlights</b></br>
+    <ul>
+    <li>Designed and fabricated a lightweight glider to satisfy AIAA Design/Build/Fly competition requirements for autonomous deployment and stable       flight.</li>
+    <li>Performed finite element analysis (FEA) to evaluate structural integrity while minimizing weight.</li>
+    <li>Developed and validated the mechanical release interface to ensure reliable deployment from the carrier aircraft during flight.</li>
+    </ul></td>
+  </tr>
+</table>
+
 # Technical Skills
 #### Languages
 C/C++, Python, MATLAB
